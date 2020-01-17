@@ -2,12 +2,18 @@
 Data Engineering &amp; Data Science
 
 Data Challenge (1 of 2): Data Engineering 
+
 Dataset: Twitter data of ~42M users (5.9GB zip file, which is 23GB after unzip)
+
 •	Download Link: http://konect.uni-koblenz.de/networks/twitter
 •	TSV File: twitter.tar.bz2
+
 Reference:
+
 [1] 	H. Kwak, C. Lee, H. Park and S. Moon, “What is Twitter, a Social Network or a News Media?,” in The 19th International World Wide Web (WWW) Conference, Raleigh NC, 2010. 
+
 What you need to do:
+
 •	Short summary of dataset’s characteristics 
 •	Perform an exploratory analysis on the dataset
 o	It’s an open-end question.
@@ -21,10 +27,14 @@ What we are looking for:
 •	Your code should be scalable. It should NOT break if we’re going to run your code on a low-end machine, e.g. 4GB RAM. 
 
 Data Challenge (2 of 2): Data Science
+
 Dataset: 
+
 •	‘BGL Data.csv’
 •	‘Data Dictionary.xlsx’
+
 What you need to do:
+
 •	Short summary of dataset’s characteristics 
 •	Perform an exploratory analysis on the dataset
 o	It’s an open-end question.
