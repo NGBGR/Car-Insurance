@@ -1,4 +1,4 @@
-# GoBear
+# Car Insurance
 Data Engineering &amp; Data Science
 
 Data Challenge (1 of 2): Data Engineering 
